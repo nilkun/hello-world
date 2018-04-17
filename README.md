@@ -1,6 +1,3 @@
 # hello-world
-Trying Github for the first time
+Playing around a little bit. Will upload WP in a couple of days.
 
-Hello there!
-Let's see if I can make a career out of this.
-Help me if you can.
